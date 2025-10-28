@@ -50,6 +50,7 @@ Passionate about transforming data into actionable insights and building impactf
 - 💼 **LinkedIn:** [Hamdaan Peshimam](https://www.linkedin.com/in/hamdaan-peshimam-547394ba/)
 - 📧 **Email:** [phamdaan@gmail.com](mailto:phamdaan@gmail.com)
 - 🌟 **GitHub:** [Hamdaan-P](https://github.com/Hamdaan-P)
+- 🟢 **Kaggle:** [Hamdaan-Peshimam](https://www.kaggle.com/work/code)
 
 ---
 
